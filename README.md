@@ -16,8 +16,8 @@ Dan saat ini saya sedang menempuh program Studi Independen [Kampus Merdeka](http
 ## My Statistic
 <p align="left">
 <a href="https://github.com/Wibrian">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Wibrian&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Wibrian&layout=compact&langs_count=8&theme=midnight-purple"/>
+  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Wibrian&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Wibrian&layout=compact&langs_count=8&theme=midnight-purple"/>
 </a>
 </p>
 
