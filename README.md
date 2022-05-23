@@ -11,7 +11,6 @@ Dan saat ini saya sedang menempuh program Studi Independen [Kampus Merdeka](http
 <img align="left" alt="CSS3" title="CSS3" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg">
 <img align="left" alt="JavaScript" title="JavaScript" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg">
 
-## My Statistic
 
 
 <!---
