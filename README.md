@@ -1,4 +1,4 @@
-## Hai..
+## Hi..:raised_hand_with_fingers_splayed:
 
 Allow me to introduce myself, my name is **Wibrian Alfathan**.
 
