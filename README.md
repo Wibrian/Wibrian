@@ -2,7 +2,7 @@
 
 Allow me to introduce myself, my name is **Wibrian Alfathan**.
 
-I'm a **college student** at [BINUS University (Malang)](https://binus.ac.id/malang/).
+I'm a **Fresh Graduate student** at [BINUS University (Malang)](https://binus.ac.id/malang/).
 
 I have passed an study independent program [Kampus Merdeka](https://kampusmerdeka.kemdikbud.go.id/) at [Dicoding](https://www.dicoding.com/) as **"Pengembang Front-End Web dan Back-End"**.
 
