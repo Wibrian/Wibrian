@@ -12,7 +12,7 @@ I have passed an study independent program [Kampus Merdeka](https://kampusmerdek
 <img align="left" alt="HTML5_icon" title="HTML5" width="50px" height="50px" src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" />
 <img align="left" alt="CSS3_icon" title="CSS3" width="50px" height="50px" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" />
 <img align="left" alt="JavaScript_icon" title="JavaScript" width="50px" heigth="50px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" />
-<img align="left" alt="JavaScript_icon" title="JavaScript" width="50px" heigth="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/885px-Node.js_logo.svg.png" />
+<img align="left" alt="NodeJS_icon" title="NodeJS" width="50px" heigth="50px" src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" />
 <img align="left" alt="React_icon" title="React.JS" width="50px" height="50px" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" />
 <img align="left" alt="Sass_icon" title="SASS" width="50px" height="50px" src="https://upload.wikimedia.org/wikipedia/commons/9/96/Sass_Logo_Color.svg" />
 <img align="left" alt="Bootstrap_icon" title="Bootstrap" width="50px" height="50px" src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" />
