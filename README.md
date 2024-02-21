@@ -1,10 +1,10 @@
 ## Hi there.. :raised_hand_with_fingers_splayed:
 
-Allow me to introduce myself, my name is **Wibrian Alfathan**.
+Allow me to introduce myself, my name is **Wibrian A.**.
 
-I'm a **Fresh Graduate student** at [BINUS University (Malang)](https://binus.ac.id/malang/).
+Just **Fresh Graduate student** at BINUS University with major **Computer Science**.
 
-I have passed an study independent program [Kampus Merdeka](https://kampusmerdeka.kemdikbud.go.id/) at [Dicoding](https://www.dicoding.com/) as **"Pengembang Front-End Web dan Back-End"**.
+Learning web development at **[Dicoding Academy](https://www.dicoding.com/)** as **"Front-End Web and Back-End Developer"** but deeply interest in front-end development.
 
 <br />
 
