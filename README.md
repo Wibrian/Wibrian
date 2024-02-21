@@ -8,7 +8,7 @@ Learning web development at **[Dicoding Academy](https://www.dicoding.com/)** as
 
 <br />
 
-## :hammer_and_wrench: Language and Tools I Learn
+## :hammer_and_wrench: Several Program Language and Tools I Learn
 <img align="left" alt="HTML5_icon" title="HTML5" width="50px" height="50px" src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" />
 <img align="left" alt="CSS3_icon" title="CSS3" width="50px" height="50px" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" />
 <img align="left" alt="JavaScript_icon" title="JavaScript" width="50px" heigth="50px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" />
