@@ -18,6 +18,7 @@ Learning web development at **[Dicoding Academy](https://www.dicoding.com/)** as
 <img align="left" alt="Bootstrap_icon" title="Bootstrap" width="50px" height="50px" src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" />
 <img align="left" alt="Figma_icon" title="Figma" width="50px" height="50px" src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" />
 <img align="left" alt="Figma_icon" title="Figma" width="50px" height="50px" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" />
+<img align="center" alt="Figma_icon" title="Figma" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nextjs-logo.svg/591px-Nextjs-logo.svg.png" />
 
 <br />
 <br />
